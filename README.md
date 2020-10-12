@@ -16,23 +16,23 @@
 
 git clone https://github.com/zhaoxiliang/myrepo.git
 
->将该目录作为新的工作目录
-cd myrepo
-ls
-less README.md # press [q] to quit
-git remote show origin
+将该目录作为新的工作目录
+ - cd myrepo
+ - ls
+ - less README.md # press [q] to quit
+ - git remote show origin
 
 - 3. 在本地修改文件，commit， and push
 加一行内容
 
-echo “A line I wrote on my local computer” >> README.md
-git status
+ - echo “A line I wrote on my local computer” >> README.md
+ - git status
 
->Commit this change and push to your remote repo on GitHub
+Commit this change and push to your remote repo on GitHub
 
-git add -A
-git commit -m “A commit from my local computer”
-git push
+ - git add -A
+ - git commit -m “A commit from my local computer”
+ - git push
 
 第一次推送要输入github的用户名和密码。
 
@@ -40,7 +40,7 @@ git push
 
 
 - 5. 删除本地仓库
-cd ..
-rm -rf myrepo/
+ - cd ..
+ - rm -rf myrepo/
 
 在Github页面删除仓库。由Settings， 向下翻，在最底部点击“Delete this repository”。
