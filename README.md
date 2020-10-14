@@ -18,6 +18,7 @@
 
 将github仓库myrepo克隆到本地
 
+
 git clone https://github.com/zhaoxiliang/myrepo.git
 
 将该目录作为新的工作目录
@@ -49,3 +50,5 @@ Commit this change and push to your remote repo on GitHub
 
 在Github页面删除仓库。由Settings， 向下翻，在最底部点击“Delete this repository”。
 
+6. Git pull
+可以在Github上fork别的仓库，然后clone到本地，修改后，git push到自己的fork的仓库，最后pull请示，进行合并请示和更新？
