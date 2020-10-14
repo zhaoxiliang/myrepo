@@ -1,5 +1,7 @@
 # 这是关于 git使用的练习
 
+![](http://amzn.to/2aHLAQ1)
+书本链接地址：[R for Data Science](https://r4ds.had.co.nz)
 
 ### 设置Git, Github
 
