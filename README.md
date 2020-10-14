@@ -45,4 +45,3 @@ Commit this change and push to your remote repo on GitHub
 
 在Github页面删除仓库。由Settings， 向下翻，在最底部点击“Delete this repository”。
 
-### git pull如何使用？
