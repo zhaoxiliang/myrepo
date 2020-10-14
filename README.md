@@ -1,4 +1,4 @@
-# 这是关于 git使用的练习(new)
+# 这是关于 git使用的练习
 
 
 ### 设置Git, Github
@@ -44,3 +44,5 @@ Commit this change and push to your remote repo on GitHub
  - rm -rf myrepo/
 
 在Github页面删除仓库。由Settings， 向下翻，在最底部点击“Delete this repository”。
+
+### git pull如何使用？
