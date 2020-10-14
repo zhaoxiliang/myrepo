@@ -1,6 +1,8 @@
 # 这是关于 git使用的练习
 
 ![](https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png)
+
+
 书本链接地址：[R for Data Science](https://r4ds.had.co.nz)
 
 ### 设置Git, Github
