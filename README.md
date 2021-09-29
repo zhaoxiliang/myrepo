@@ -52,3 +52,4 @@ Commit this change and push to your remote repo on GitHub
 
 6. Git pull
 可以在Github上fork别的仓库，然后clone到本地，修改后，git push到自己的fork的仓库，最后pull请示，进行合并请示和更新？
+A line I wrote on my local computer
