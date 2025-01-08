@@ -1,2 +1,2 @@
 a new file.
-Creating a new brach is quick & simple. use git switch -c name.
+Creating a new branch is quick and simple. use git switch -c name.
